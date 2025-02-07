@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="10" build="200" lslib_meta="v1,bswap_guids" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="SourceFile" type="LSString" value="Public/GlutRing_companion/Assets/Textures/Icons/GlutRing_companion.DDS" />
+					<attribute id="ID" type="FixedString" value="0f92dcb4-3d1f-440d-aa5f-9030cc3f5bfa" />
+					<attribute id="Name" type="LSString" value="GlutRing_companion" />
+					<attribute id="Template" type="FixedString" value="GlutRing_companion" />
+					<attribute id="SRGB" type="bool" value="True" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Type" type="int32" value="0" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
+  
