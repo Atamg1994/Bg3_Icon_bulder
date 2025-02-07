@@ -48,7 +48,7 @@ This project relies on the following external libraries and tools:
    ```
 3. **Run the script**:
    ```sh
-   node index.js
+   node app.js
    ```
 4. The processed files will be placed in the `./Build/` directory with the necessary structure.
 
