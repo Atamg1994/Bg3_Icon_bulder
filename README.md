@@ -36,8 +36,8 @@ This project relies on the following external libraries and tools:
 
 ## Usage
 1. **Prepare input images**:
-   - Place item icons in `./images/Item_Images/`
-   - Place spell icons in `./images/Spell_Images/`
+   - Place item icons in `./images/Item_Images/` *.png 380X380 (with transparent background)
+   - Place spell icons in `./images/Spell_Images/` *.png 380X380 (with transparent background)
 2. **Modify `config.json`** with the appropriate mod name and UUID:
    ```json
    {
