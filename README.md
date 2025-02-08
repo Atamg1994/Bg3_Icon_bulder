@@ -36,8 +36,8 @@ This project relies on the following external libraries and tools:
 
 ## Usage
 1. **Prepare input images**:
-   - Place item icons in `./images/Item_Images/`
-   - Place spell icons in `./images/Spell_Images/`
+   - Place item icons in `./images/Item_Images/` *.png 380X380 (with transparent background)
+   - Place spell icons in `./images/Spell_Images/` *.png 380X380 (with transparent background)
 2. **Modify `config.json`** with the appropriate mod name and UUID:
    ```json
    {
@@ -48,7 +48,7 @@ This project relies on the following external libraries and tools:
    ```
 3. **Run the script**:
    ```sh
-   node index.js
+   node app.js
    ```
 4. The processed files will be placed in the `./Build/` directory with the necessary structure.
 
@@ -63,7 +63,9 @@ Build/
  │   ├── Mods/
  │   │   ├── GUI/metadata.lsx
  │   │   ├── GUI/Assets/Tooltips/Icons/
+ │   │   ├── GUI/Assets/Tooltips/ItemIcons/
  │   │   ├── GUI/AssetsLowRes/Tooltips/Icons/
+ │   │   ├── GUI/AssetsLowRes/Tooltips/ItemIcons/
  │   │   ├── GUI/Assets/ControllerUIIcons/
  │   │   ├── GUI/AssetsLowRes/ControllerUIIcons/
 ```
