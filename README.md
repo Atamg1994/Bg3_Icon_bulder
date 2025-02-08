@@ -63,7 +63,9 @@ Build/
  │   ├── Mods/
  │   │   ├── GUI/metadata.lsx
  │   │   ├── GUI/Assets/Tooltips/Icons/
+ │   │   ├── GUI/Assets/Tooltips/ItemIcons/
  │   │   ├── GUI/AssetsLowRes/Tooltips/Icons/
+ │   │   ├── GUI/AssetsLowRes/Tooltips/ItemIcons/
  │   │   ├── GUI/Assets/ControllerUIIcons/
  │   │   ├── GUI/AssetsLowRes/ControllerUIIcons/
 ```
